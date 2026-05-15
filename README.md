@@ -42,12 +42,6 @@
 - **[可视化工作流编排平台](https://flow.itong.asia)** - Canvas 节点拖拽、Kahn 拓扑排序、嵌套分组系统
 - **[AI Agent 智能助手](https://itong.asia\/agent)** - 多 Agent 协调、RAG 检索、语音交互 (TTS/STT)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osinone&show_icons=true&theme=transparent" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osinone&layout=compact&theme=transparent" height="180" alt="languages" />
-</p>
 
 ## Contact
 - 📧 tong15399893901@gmail.com
