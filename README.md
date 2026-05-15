@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 全栈工程师 | Agent 开发
-- 🌐 https://itong.asia
+- 🌐 https://itong.asia | https://github.com/osinone
 
 ## Tech Stack
 
@@ -37,6 +37,11 @@
 ![SSE](https://img.shields.io/badge/SSE-流式输出-blue?style=flat)
 ![TTS/STT](https://img.shields.io/badge/TTS/STT-语音合成-purple?style=flat)
 
+## Featured Projects
+
+- **[可视化工作流编排平台](https://flow.itong.asia)** - Canvas 节点拖拽、Kahn 拓扑排序、嵌套分组系统
+- **[AI Agent 智能助手](https://itong.asia\/agent)** - 多 Agent 协调、RAG 检索、语音交互 (TTS/STT)
+
 ## GitHub Stats
 
 <p align="center">
@@ -45,5 +50,5 @@
 </p>
 
 ## Contact
-- 📧 tong15399893901@xxx.com
+- 📧 tong15399893901@gmail.com
 - 🔗 https://itong.asia
