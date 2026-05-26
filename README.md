@@ -1,7 +1,7 @@
 # Hi, I'm Tong Junjie 👋
 
 ## About Me
-- 💻 全栈工程师 | Agent 应用开发工程师
+- 💻 全栈工程师 | AI 应用开发工程师
 - 🌐 https://itong.asia | https://github.com/osinone
 
 ## Tech Stack
